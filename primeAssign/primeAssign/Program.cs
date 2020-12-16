@@ -32,9 +32,11 @@ namespace primeAssign
 
                 if (ctr == 0 && num != 1)
                 {
+                    Console.WriteLine(num+"\n");
                     //add ur code here
                 }
             }
+            Console.WriteLine("Navdeep");
             Console.Write("\n");
         }
     }
